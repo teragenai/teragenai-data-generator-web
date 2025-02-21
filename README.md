@@ -4,8 +4,8 @@ Welcome to **TeraGenAI**, the ultimate AI-powered platform for generating high-q
 
 
 ## 🔗 Quick Access
-- **Platform:** [TeraGenAI](https://teragenai.com/)
-- **Login & Start Generating:** [TeraGenAI Data Generator](https://data.teragenai.com/login)
+- **Sign up & Start Generating Data:** [TeraGenAI Data Generator](https://data.teragenai.com/login)
+- **Website:** [TeraGenAI](https://teragenai.com/)
 
 ## 🚀 Features
 - **AI-Generated Data**: Generate realistic synthetic data using AI models.
