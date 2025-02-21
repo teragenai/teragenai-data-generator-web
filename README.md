@@ -5,6 +5,9 @@ Welcome to **TeraGenAI**, the ultimate AI-powered platform for generating high-q
 
 ## 🔗 Quick Access
 - **Sign up & Start Generating Data:** [TeraGenAI Data Generator](https://data.teragenai.com/login)
+
+<img src="https://raw.githubusercontent.com/teragenai/teragenai-data-generator-web/refs/heads/main/teragenai-signup.png" width="600">
+
 - **Website:** [TeraGenAI](https://teragenai.com/)
 
 ## 🚀 Features
